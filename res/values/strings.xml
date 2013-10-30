@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Christian Songs</string>
+    <string name="title_song_detail">Song Detail</string>
+    <string name="font_name">fonts/Kaumudi.ttf</string>
+    <string name="menu_search">Search</string>
+
+</resources>
